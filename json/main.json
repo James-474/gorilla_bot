@@ -1,0 +1,16 @@
+{
+  "data":[
+    {
+      "img":"img/sample_gorilla1.jpg",
+      "tweet":"バナナは美味しい"
+    },
+    {
+      "img":"img/sample_gorilla2.jpg",
+      "tweet":"ドンキーコングです"
+    },
+    {
+      "img":"img/sample_gorilla3.jpg",
+      "tweet":"風船で１UPする謎"
+    }
+  ]
+}
